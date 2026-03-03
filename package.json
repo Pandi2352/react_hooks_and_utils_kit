@@ -1,0 +1,37 @@
+{
+  "name": "react-powertoolkit",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "The ultimate full-stack developer toolkit for React — 93 premium hooks, utilities, browser APIs, and developer tools in one place.",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "@worksolutions/utils": "^1.4.25",
+    "lodash.debounce": "^4.0.8",
+    "lodash.throttle": "^4.1.1",
+    "lucide-react": "^0.576.0",
+    "mobx": "^6.13.7",
+    "mobx-utils": "^6.0.8",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "react-router-dom": "^7.13.1",
+    "react-use": "^17.6.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.2.1",
+    "@types/lodash.debounce": "^4.0.9",
+    "@types/lodash.throttle": "^4.1.9",
+    "@types/node": "^25.3.3",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^5.1.4",
+    "tailwindcss": "^4.2.1",
+    "typescript": "^5.9.3",
+    "vite": "^7.3.1"
+  }
+}
