@@ -8,8 +8,11 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript_5.9-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite_7-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://react-hooks-and-utils-kit.vercel.app/)
 
 <br/>
+
+**[🚀 View Live Showcase](https://react-hooks-and-utils-kit.vercel.app/)**
 
 **Streamline your development with zero-dependency hooks and battle-tested utilities.**  
 Built for performance, developer experience, and scalability.
@@ -95,10 +98,10 @@ Pure JS functions optimized for modern performance:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/react-powertoolkit.git
+git clone https://github.com/Pandi2352/react_hooks_and_utils_kit.git
 
 # Enter the directory
-cd react-powertoolkit
+cd react_hooks_and_utils_kit
 
 # Install dependencies (React 19, Vite 7, Tailwind 4)
 npm install
